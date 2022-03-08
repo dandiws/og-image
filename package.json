@@ -10,6 +10,7 @@
     "chrome-aws-lambda": "7.0.0",
     "marked": "4.0.10",
     "puppeteer-core": "13.1.2",
+    "simple-icons": "6.13.0",
     "twemoji": "13.0.1"
   },
   "devDependencies": {
